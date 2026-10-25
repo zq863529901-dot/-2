@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="张强强的个人设计网站。关注电商、SaaS 与 B/C 端用户体验，分享 AI 工具与创作者。" />
+    <title>张强强 — UX Designer</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main" data-scroll="main">跳到主要内容</a>
+    <header class="nav">
+      <a class="wordmark" href="#/" aria-label="张强强，首页">Zqq<span>®</span></a>
+      <span class="nav-caption">DESIGN & A LITTLE LIFE</span>
+      <nav class="nav-links" aria-label="主导航">
+        <a href="#/" data-route="home">首页</a>
+        <a href="#/ai" data-route="ai">我喜欢的 AI 网站</a>
+        <a href="#/people" data-route="people">AI 博主关注</a>
+      </nav>
+      <a class="button button-small contact-nav" href="mailto:18435120869@163.com">聊聊设计 <span>↗</span></a>
+      <button class="menu-toggle" aria-label="展开导航" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span></button>
+    </header>
+    <nav id="mobile-nav" class="mobile-nav" aria-label="手机导航" hidden>
+      <a href="#/">首页 <span>01</span></a><a href="#/ai">我喜欢的 AI 网站 <span>02</span></a><a href="#/people">AI 博主关注 <span>03</span></a>
+      <a href="mailto:18435120869@163.com">联系我 ↗</a>
+    </nav>
+    <main id="main"></main>
+    <footer class="footer">
+      <a class="wordmark" href="#/">Zqq<span>®</span></a>
+      <span>用心设计，也认真生活。</span>
+      <span>© <span id="year"></span> 张强强</span>
+      <button class="back-top">回到顶部 ↑</button>
+    </footer>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>

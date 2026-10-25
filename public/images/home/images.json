@@ -1,0 +1,58 @@
+[
+  {
+    "src": "/images/home/cat-portrait.webp",
+    "alt": "灰白猫咪正面坐姿",
+    "width": 787,
+    "height": 1400,
+    "source": "IMG_8116.JPG"
+  },
+  {
+    "src": "/images/home/cat-looking-up.webp",
+    "alt": "灰白猫咪抬头特写",
+    "width": 1400,
+    "height": 787,
+    "source": "IMG_8119.JPG"
+  },
+  {
+    "src": "/images/home/cat-on-sofa.webp",
+    "alt": "猫咪坐在沙发上",
+    "width": 1050,
+    "height": 1400,
+    "source": "IMG_0066.HEIC"
+  },
+  {
+    "src": "/images/home/cat-lounging.webp",
+    "alt": "猫咪侧躺在灰色床单上",
+    "width": 1050,
+    "height": 1400,
+    "source": "IMG_4054.HEIC"
+  },
+  {
+    "src": "/images/home/cat-kitten.webp",
+    "alt": "幼猫被轻轻抱起",
+    "width": 787,
+    "height": 1400,
+    "source": "IMG_3775.JPG"
+  },
+  {
+    "src": "/images/home/cat-sleeping.webp",
+    "alt": "猫咪躺在条纹织物上睡觉",
+    "width": 1050,
+    "height": 1400,
+    "source": "IMG_3632.HEIC"
+  },
+  {
+    "src": "/images/home/cat-stretch.webp",
+    "alt": "猫咪张嘴伸展的瞬间",
+    "width": 787,
+    "height": 1400,
+    "source": "IMG_8584.JPG"
+  },
+  {
+    "src": "/images/home/cat-resting.webp",
+    "alt": "猫咪趴坐在浅色床单上",
+    "width": 1400,
+    "height": 787,
+    "source": "IMG_8114.JPG"
+  }
+]
