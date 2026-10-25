@@ -16,7 +16,7 @@ const eyebrow = (number, text) => `<div class="eyebrow"><span class="green-dot">
 
 function homePage() {
   return `<section class="hero" aria-labelledby="hero-title">
-    <div class="orbit" aria-hidden="true">${photos.map(([file], i) => `<div class="orbit-card orbit-${i}"><img src="/images/home/${file}.webp" alt="" fetchpriority="${i < 2 ? 'high' : 'auto'}" draggable="false"></div>`).join('')}</div>
+    <div class="orbit" aria-hidden="true">${photos.map(([file], i) => `<div class="orbit-card orbit-${i}"><img src="images/home/${file}.webp" alt="" fetchpriority="${i < 2 ? 'high' : 'auto'}" draggable="false"></div>`).join('')}</div>
     <div class="hero-scrim"></div><div class="hero-fade"></div>
     <div class="hero-content">
       <div class="hero-intro"><span class="green-dot"></span> UX DESIGNER & CURIOUS HUMAN</div>
