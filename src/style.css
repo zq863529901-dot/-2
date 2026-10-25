@@ -91,6 +91,7 @@ dialog{width:min(1100px,94vw);max-height:90svh;padding:30px;background:#101013;b
   .creator-bio{font-size:14px!important;line-height:1.85!important;margin-top:20px!important}
   .creator-source{padding-top:20px;letter-spacing:0;line-height:1.5}
   .collection-note{font-size:12px;margin-top:34px}
+  .contact-email{font-size:12px}
   .footer{grid-template-columns:1fr;gap:12px;padding:24px 20px;font-size:12px}
   .footer>:nth-child(2),.footer>:last-child{justify-self:start}
 }
